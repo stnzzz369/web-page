@@ -182,3 +182,11 @@ img {
     margin-bottom: 2rem;
   }
 }
+
+
+@media (max-width: 768px) {
+  .login {
+    background-image: url('phone.jpg');
+    height: 200px; /* Adjust the height as needed for mobile */
+  }
+}
